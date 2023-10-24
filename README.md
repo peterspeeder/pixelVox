@@ -22,7 +22,7 @@ TBD
 
 ## Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
+TBD
 
 ## License
 
@@ -34,13 +34,14 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-- For inquiries and support, please contact [Your Name](mailto:your.email@example.com).
+- For inquiries and support, please contact [Peter](mailto:peterkolev03@icloud.com).
 
 ## Roadmap
 
 - [ ] Add crafting system.
 - [ ] Implement survival mechanics.
 - [ ] Expand world interactivity.
+- [ ] Biomes!
 
 **Note: This project is under active development, and more features and improvements are planned.**
 
