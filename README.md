@@ -1,10 +1,5 @@
 
-![Example Image](assets/Screenshot
-        2023 - 10 - 24
-        at
-        5.20
-        .50
-        PM.png)
+![Example Image](Land.png)
 
 
 
